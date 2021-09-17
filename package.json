@@ -1,7 +1,7 @@
 {
   "name": "antd-vue-volar",
   "version": "1.0.1",
-  "description": "antd-vue global components supports for the valor.",
+  "description": "antd-vue global components supports for the volar.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
